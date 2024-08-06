@@ -1,6 +1,5 @@
-# Define the content of the enhanced README
-readme_content = """
-# Image Captioning Project
+
+# Image Captioning
 
 ## Overview
 This project aims to generate descriptive captions for images using AI-based models that integrate Convolutional Neural Networks (CNNs) and Long Short-Term Memory (LSTM) networks. The model is trained on the Flickr8k dataset, which contains 8,000 images and corresponding captions.
